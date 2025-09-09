@@ -1,0 +1,2 @@
+-First Setup environment and then all need labraries install for this project 
+-Then simply run this they will be run 
